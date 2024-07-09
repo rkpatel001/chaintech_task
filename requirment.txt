@@ -1,0 +1,4 @@
+flask
+logging
+pymongo.mongo_client
+pymongo
